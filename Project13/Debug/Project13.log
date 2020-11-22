@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\Users\周启明\source\repos\Project13\源.cpp(3,15): warning C4305: “初始化”: 从“double”到“float”截断
+D:\Users\周启明\source\repos\Project13\源.cpp(4,15): warning C4305: “初始化”: 从“double”到“float”截断
+  Project13.vcxproj -> D:\Users\周启明\source\repos\Project13\Debug\Project13.exe
